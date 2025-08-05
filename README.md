@@ -1,2 +1,3 @@
-# testes-automatizados
-Testes automatizados utilizando Cypress e Playwright 
+# Testes Automatizados com Cypress e Playwright
+
+Este repositório contém dois conjuntos de testes automatizados desenvolvidos com as ferramentas **Cypress** e **Playwright**.
