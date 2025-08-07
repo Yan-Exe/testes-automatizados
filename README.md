@@ -35,6 +35,8 @@ Cypress
 
 - tests/  
   Exemplos e testes adicionais, possivelmente para aprendizado e desenvolvimento com Playwright.
+    - `uol-validation.cy.js` - Testes para validar dados no site do UOL.
+    - `yahoo-search.cy.js` - Testes para validar busca no Yahoo.
 
 - playwright.config.js 
   Arquivo de configuração do Playwright.
