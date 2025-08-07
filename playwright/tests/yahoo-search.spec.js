@@ -12,4 +12,7 @@ test('has title', async ({ page }) => {
   ]);
 
   await expect(page.locator('text=Pacto Sistema para Academias')).toBeVisible();
+
+  await page.waitForTimeout(3000);
+
 });
