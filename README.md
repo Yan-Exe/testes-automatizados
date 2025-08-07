@@ -7,10 +7,11 @@ Este repositório contém dois conjuntos de testes automatizados desenvolvidos c
 - Validação da busca no Yahoo.  
 - Validação da data de atualização dos termos de segurança do UOL.
 
+Estrutura principal de Pastas e Arquivos
+
 Cypress
 
 - cypress/
-  Diretório principal dos testes Cypress.
 
   - e2e/
     Contém os testes end-to-end escritos em Cypress.
